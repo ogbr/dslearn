@@ -1,2 +1,2 @@
-hello, world
 hello, olga!
+new project
